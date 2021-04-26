@@ -446,11 +446,7 @@
   {
     "adult": false,
     "backdrop_path": "/jnq4fV53Px9HvUZD2bQIxtGSwS7.jpg",
-    "genre_ids": [
-      80,
-      Drama,
-      Action
-    ],
+   "genre: "Drama",
     "id": 644083,
     "original_language": "en",
     "original_title": "Twist",
@@ -466,10 +462,7 @@
   {
     "adult": false,
     "backdrop_path": "/vfuzELmhBjBTswXj2Vqxnu5ge4g.jpg",
-    "genre_ids": [
-      53,
-      80
-    ],
+     "genre: "Thriller",
     "id": 602269,
     "original_language": "en",
     "original_title": "The Little Things",
@@ -485,12 +478,7 @@
   {
     "adult": false,
     "backdrop_path": "/cjaOSjsjV6cl3uXdJqimktT880L.jpg",
-    "genre_ids": [
-      10751,
-      14,
-      16,
-      Comedy
-    ],
+    "genre: "Comedy",
     "id": 529203,
     "original_language": "en",
     "original_title": "The Croods: A New Age",
@@ -506,12 +494,7 @@
   {
     "adult": false,
     "backdrop_path": "/fRrpOILyXuWaWLmqF7kXeMVwITQ.jpg",
-    "genre_ids": [
-      27,
-      53,
-      12,
-      9648
-    ],
+    "genre: "Thriller",
     "id": 522444,
     "original_language": "en",
     "original_title": "Black Water: Abyss",
@@ -527,11 +510,7 @@
   {
     "adult": false,
     "backdrop_path": "/h9DIlghaiTxbQbt1FIwKNbQvEL.jpg",
-    "genre_ids": [
-      Action,
-      12,
-      53
-    ],
+    "genre: "Action",
     "id": 581387,
     "original_language": "ko",
     "original_title": "백두산",
@@ -547,11 +526,7 @@
   {
     "adult": false,
     "backdrop_path": "/4JeO6EeNOnWpzgay99EicUoRdIP.jpg",
-    "genre_ids": [
-      80,
-      53,
-      Drama
-    ],
+     "genre: "Drama",
     "id": 579051,
     "original_language": "en",
     "original_title": "Silk Road",
@@ -567,14 +542,7 @@
   {
     "adult": false,
     "backdrop_path": "/kf456ZqeC45XTvo6W9pW5clYKfQ.jpg",
-    "genre_ids": [
-      10751,
-      16,
-      Comedy,
-      Drama,
-      10402,
-      14
-    ],
+     "genre: "Drama",
     "id": 508442,
     "original_language": "en",
     "original_title": "Soul",
@@ -590,9 +558,7 @@
   {
     "adult": false,
     "backdrop_path": "/a9zFUuxzChmAlIybVge9IZt1hH0.jpg",
-    "genre_ids": [
-      Comedy
-    ],
+    "genre: "Comedy",
     "id": 578908,
     "original_language": "en",
     "original_title": "Bad Trip",
@@ -608,11 +574,7 @@
   {
     "adult": false,
     "backdrop_path": "/7KL4yJ4JsbtS1BNRilUApLvMnc5.jpg",
-    "genre_ids": [
-      53,
-      Drama,
-      27
-    ],
+     "genre: "Drama",
     "id": 649087,
     "original_language": "sv",
     "original_title": "Red Dot",
@@ -628,10 +590,7 @@
   {
     "adult": false,
     "backdrop_path": "/jw0849O7WLarbYKJkA9WpRLeGKG.jpg",
-    "genre_ids": [
-      Comedy,
-      10749
-    ],
+     "genre: "Comedy",
     "id": 802504,
     "original_language": "nl",
     "original_title": "Just Say Yes",
@@ -647,11 +606,7 @@
   {
     "adult": false,
     "backdrop_path": "/fX8e94MEWSuTJExndVYxKsmA4Hw.jpg",
-    "genre_ids": [
-      Action,
-      12,
-      80
-    ],
+    "genre: "Action",
     "id": 604822,
     "original_language": "zh",
     "original_title": "急先锋",
@@ -667,10 +622,7 @@
   {
     "adult": false,
     "backdrop_path": "/u5WUCO6irZoq27qbYYrtLUrCGDV.jpg",
-    "genre_ids": [
-      27,
-      53
-    ],
+     "genre: "Thriller",
     "id": 630586,
     "original_language": "en",
     "original_title": "Wrong Turn",
@@ -686,11 +638,7 @@
   {
     "adult": false,
     "backdrop_path": "/jeAQdDX9nguP6YOX6QSWKDPkbBo.jpg",
-    "genre_ids": [
-      14,
-      Action,
-      878
-    ],
+     "genre: "Action",
     "id": 590706,
     "original_language": "en",
     "original_title": "Jiu Jitsu",
@@ -706,10 +654,7 @@
   {
     "adult": false,
     "backdrop_path": "/nz8xWrTKZzA5A7FgxaM4kfAoO1W.jpg",
-    "genre_ids": [
-      878,
-      Action
-    ],
+     "genre: "Action",
     "id": 651571,
     "original_language": "en",
     "original_title": "Breach",
@@ -725,11 +670,7 @@
   {
     "adult": false,
     "backdrop_path": "/9Is9OrQUnKczCfsLSbsbx8YSmES.jpg",
-    "genre_ids": [
-      16,
-      Comedy,
-      14
-    ],
+    "genre: "Comedy",
     "id": 797394,
     "original_language": "ru",
     "original_title": "Ганзель, Гретель и Агентство Магии",
