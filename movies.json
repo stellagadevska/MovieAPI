@@ -3,7 +3,7 @@
     "adult": false,
     "backdrop_path": "/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
     "genre_ids": [
-      28,
+      Action,
       878
     ],
     "id": 399566,
@@ -22,7 +22,7 @@
     "adult": false,
     "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
     "genre_ids": [
-      28,
+      Action,
       12,
       14,
       878
@@ -43,9 +43,9 @@
     "adult": false,
     "backdrop_path": "/z7HLq35df6ZpRxdMAE0qE3Ge4SJ.jpg",
     "genre_ids": [
-      28,
+      Action,
       12,
-      35,
+      Comedy,
       14
     ],
     "id": 615678,
@@ -65,7 +65,7 @@
     "backdrop_path": "/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg",
     "genre_ids": [
       14,
-      28,
+      Action,
       12
     ],
     "id": 460465,
@@ -85,7 +85,7 @@
     "backdrop_path": "/5NxjLfs7Bi07bfZCRl9CCnUw7AA.jpg",
     "genre_ids": [
       878,
-      28,
+      Action,
       12,
       53
     ],
@@ -109,7 +109,7 @@
       12,
       14,
       10751,
-      28
+      Action
     ],
     "id": 527774,
     "original_language": "en",
@@ -128,7 +128,7 @@
     "backdrop_path": "/9xeEGUZjgiKlI69jwIOi0hjKUIk.jpg",
     "genre_ids": [
       16,
-      28,
+      Action,
       14
     ],
     "id": 664767,
@@ -148,7 +148,7 @@
     "backdrop_path": "/z8TvnEVRenMSTemxYZwLGqFofgF.jpg",
     "genre_ids": [
       14,
-      28,
+      Action,
       12
     ],
     "id": 458576,
@@ -168,8 +168,8 @@
     "backdrop_path": "/jnq4fV53Px9HvUZD2bQIxtGSwS7.jpg",
     "genre_ids": [
       80,
-      18,
-      28
+      Drama,
+      Action
     ],
     "id": 644083,
     "original_language": "en",
@@ -187,7 +187,7 @@
     "adult": false,
     "backdrop_path": "/fev8UFNFFYsD5q7AcYS8LyTzqwl.jpg",
     "genre_ids": [
-      35,
+      Comedy,
       10751,
       16
     ],
@@ -208,8 +208,8 @@
     "backdrop_path": "/gzJnMEMkHowkUndn9gCr8ghQPzN.jpg",
     "genre_ids": [
       53,
-      28,
-      18
+      Action,
+      Drama
     ],
     "id": 793723,
     "original_language": "fr",
@@ -228,7 +228,7 @@
     "backdrop_path": "/uQtqiAu2bBlokqjlURVLEha6zoi.jpg",
     "genre_ids": [
       80,
-      18
+      Drama
     ],
     "id": 544401,
     "original_language": "en",
@@ -246,7 +246,7 @@
     "adult": false,
     "backdrop_path": "/5Zv5KmgZzdIvXz2KC3n0MyecSNL.jpg",
     "genre_ids": [
-      28,
+      Action,
       53,
       80
     ],
@@ -266,7 +266,7 @@
     "adult": false,
     "backdrop_path": "/6TPZSJ06OEXeelx1U1VIAt0j9Ry.jpg",
     "genre_ids": [
-      28,
+      Action,
       80,
       53
     ],
@@ -287,7 +287,7 @@
     "backdrop_path": "/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
     "genre_ids": [
       14,
-      28,
+      Action,
       12
     ],
     "id": 464052,
@@ -307,7 +307,7 @@
     "backdrop_path": "/lOSdUkGQmbAl5JQ3QoHqBZUbZhC.jpg",
     "genre_ids": [
       53,
-      28,
+      Action,
       878,
       14
     ],
@@ -327,7 +327,7 @@
     "adult": false,
     "backdrop_path": "/drulhSX7P5TQlEMQZ3JoXKSDEfz.jpg",
     "genre_ids": [
-      18,
+      Drama,
       14,
       878
     ],
@@ -387,7 +387,7 @@
     "adult": false,
     "backdrop_path": "/h9DIlghaiTxbQbt1FIwKNbQvEL.jpg",
     "genre_ids": [
-      28,
+      Action,
       12,
       53
     ],
@@ -402,5 +402,403 @@
     "video": false,
     "vote_average": 6.5,
     "vote_count": 233
+  },
+    {
+    "adult": false,
+    "backdrop_path": "/6TPZSJ06OEXeelx1U1VIAt0j9Ry.jpg",
+    "genre_ids": [
+      Action,
+      80,
+      53
+    ],
+    "id": 587996,
+    "original_language": "es",
+    "original_title": "Bajocero",
+    "overview": "When a prisoner transfer van is attacked, the cop in charge must fight those inside and outside while dealing with a silent foe: the icy temperatures.",
+    "popularity": 1126.198,
+    "poster_path": "/dWSnsAGTfc8U27bWsy2RfwZs0Bs.jpg",
+    "release_date": "2021-01-29",
+    "title": "Below Zero",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 524
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aMFl4wOPhJ7NVua6SgU9zIJvFSx.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      Comedy
+    ],
+    "id": 755812,
+    "original_language": "fr",
+    "original_title": "Miraculous World : New York, les héros unis",
+    "overview": "During a school field trip, Ladybug and Cat Noir meet the American superheroes, whom they have to save from an akumatised super-villain. They discover that Miraculous exist in the United States too.",
+    "popularity": 979.979,
+    "poster_path": "/kIHgjAkuzvKBnmdstpBOo4AfZah.jpg",
+    "release_date": "2020-09-26",
+    "title": "Miraculous World: New York, United HeroeZ",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 652
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jnq4fV53Px9HvUZD2bQIxtGSwS7.jpg",
+    "genre_ids": [
+      80,
+      Drama,
+      Action
+    ],
+    "id": 644083,
+    "original_language": "en",
+    "original_title": "Twist",
+    "overview": "A Dicken’s classic brought thrillingly up to date in the teeming heartland of modern London, where a group of street smart young hustlers plan the heist of the century for the ultimate payday.",
+    "popularity": 1082.318,
+    "poster_path": "/h3oT6lZcYC2khtZnzHBgqthj5W.jpg",
+    "release_date": "2021-01-22",
+    "title": "Twist",
+    "video": false,
+    "vote_average": 7,
+    "vote_count": 44
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vfuzELmhBjBTswXj2Vqxnu5ge4g.jpg",
+    "genre_ids": [
+      53,
+      80
+    ],
+    "id": 602269,
+    "original_language": "en",
+    "original_title": "The Little Things",
+    "overview": "Deputy Sheriff Joe \"Deke\" Deacon joins forces with Sgt. Jim Baxter to search for a serial killer who's terrorizing Los Angeles. As they track the culprit, Baxter is unaware that the investigation is dredging up echoes of Deke's past, uncovering disturbing secrets that could threaten more than his case.",
+    "popularity": 845.205,
+    "poster_path": "/c7VlGCCgM9GZivKSzBgzuOVxQn7.jpg",
+    "release_date": "2021-01-28",
+    "title": "The Little Things",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 777
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cjaOSjsjV6cl3uXdJqimktT880L.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      16,
+      Comedy
+    ],
+    "id": 529203,
+    "original_language": "en",
+    "original_title": "The Croods: A New Age",
+    "overview": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a family that's a couple of steps above the Croods on the evolutionary ladder. As tensions between the new neighbors start to rise, a new threat soon propels both clans on an epic adventure that forces them to embrace their differences, draw strength from one another, and survive together.",
+    "popularity": 815.028,
+    "poster_path": "/tbVZ3Sq88dZaCANlUcewQuHQOaE.jpg",
+    "release_date": "2020-11-25",
+    "title": "The Croods: A New Age",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 1995
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fRrpOILyXuWaWLmqF7kXeMVwITQ.jpg",
+    "genre_ids": [
+      27,
+      53,
+      12,
+      9648
+    ],
+    "id": 522444,
+    "original_language": "en",
+    "original_title": "Black Water: Abyss",
+    "overview": "An adventure-loving couple convince their friends to explore a remote, uncharted cave system in the forests of Northern Australia. With a tropical storm approaching, they abseil into the mouth of the cave, but when the caves start to flood, tensions rise as oxygen levels fall and the friends find themselves trapped. Unknown to them, the storm has also brought in a pack of dangerous and hungry crocodiles.",
+    "popularity": 1000.718,
+    "poster_path": "/95S6PinQIvVe4uJAd82a2iGZ0rA.jpg",
+    "release_date": "2020-07-09",
+    "title": "Black Water: Abyss",
+    "video": false,
+    "vote_average": 5,
+    "vote_count": 210
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h9DIlghaiTxbQbt1FIwKNbQvEL.jpg",
+    "genre_ids": [
+      Action,
+      12,
+      53
+    ],
+    "id": 581387,
+    "original_language": "ko",
+    "original_title": "백두산",
+    "overview": "A group of unlikely heroes from across the Korean peninsula try to save the day after a volcano erupts on the mythical and majestic Baekdu Mountain.",
+    "popularity": 937.38,
+    "poster_path": "/zoeKREZ2IdAUnXISYCS0E6H5BVh.jpg",
+    "release_date": "2019-12-19",
+    "title": "Ashfall",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 235
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4JeO6EeNOnWpzgay99EicUoRdIP.jpg",
+    "genre_ids": [
+      80,
+      53,
+      Drama
+    ],
+    "id": 579051,
+    "original_language": "en",
+    "original_title": "Silk Road",
+    "overview": "The true story of Ross Ulbricht, the charismatic young tech-mastermind who unleashed the darknet website Silk Road, and the corrupt DEA agent determined to bring down his billion-dollar empire.",
+    "popularity": 749.052,
+    "poster_path": "/6KxiEWyIDpz1ikmD7nv3GTX4Uoj.jpg",
+    "release_date": "2021-02-19",
+    "title": "Silk Road",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 40
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kf456ZqeC45XTvo6W9pW5clYKfQ.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      Comedy,
+      Drama,
+      10402,
+      14
+    ],
+    "id": 508442,
+    "original_language": "en",
+    "original_title": "Soul",
+    "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+    "popularity": 741.535,
+    "poster_path": "/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+    "release_date": "2020-12-25",
+    "title": "Soul",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 5783
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/a9zFUuxzChmAlIybVge9IZt1hH0.jpg",
+    "genre_ids": [
+      Comedy
+    ],
+    "id": 578908,
+    "original_language": "en",
+    "original_title": "Bad Trip",
+    "overview": "Two pals embark on a road trip full of funny pranks that pull real people into mayhem.",
+    "popularity": 837.263,
+    "poster_path": "/A1Gy5HX3DKGaNW1Ay30NTIVJqJ6.jpg",
+    "release_date": "2021-03-26",
+    "title": "Bad Trip",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 169
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7KL4yJ4JsbtS1BNRilUApLvMnc5.jpg",
+    "genre_ids": [
+      53,
+      Drama,
+      27
+    ],
+    "id": 649087,
+    "original_language": "sv",
+    "original_title": "Red Dot",
+    "overview": "On a hiking trip to rekindle their marriage, a couple find themselves fleeing for their lives in the unforgiving wilderness from an unknown shooter.",
+    "popularity": 795.375,
+    "poster_path": "/xZ2KER2gOHbuHP2GJoODuXDSZCb.jpg",
+    "release_date": "2021-02-11",
+    "title": "Red Dot",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 436
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jw0849O7WLarbYKJkA9WpRLeGKG.jpg",
+    "genre_ids": [
+      Comedy,
+      10749
+    ],
+    "id": 802504,
+    "original_language": "nl",
+    "original_title": "Just Say Yes",
+    "overview": "Incurable romantic Lotte finds her life upended when her plans for a picture-perfect wedding unravel -- just as her self-absorbed sister gets engaged.",
+    "popularity": 744.505,
+    "poster_path": "/3btDwus5VN5jOWfA9strpDJWwfj.jpg",
+    "release_date": "2021-04-02",
+    "title": "Just Say Yes",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 77
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fX8e94MEWSuTJExndVYxKsmA4Hw.jpg",
+    "genre_ids": [
+      Action,
+      12,
+      80
+    ],
+    "id": 604822,
+    "original_language": "zh",
+    "original_title": "急先锋",
+    "overview": "Covert security company Vanguard is the last hope of survival for an accountant after he is targeted by the world's deadliest mercenary organization.",
+    "popularity": 752.63,
+    "poster_path": "/mKvw1Ic9enfFlCPBNJGiejRPMUO.jpg",
+    "release_date": "2020-09-30",
+    "title": "Vanguard",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 290
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/u5WUCO6irZoq27qbYYrtLUrCGDV.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 630586,
+    "original_language": "en",
+    "original_title": "Wrong Turn",
+    "overview": "Jen and a group of friends set out to hike the Appalachian Trail. Despite warnings to stick to the trail, the hikers stray off course—and cross into land inhabited by The Foundation, a hidden community of mountain dwellers who use deadly means to protect their way of life.",
+    "popularity": 761.251,
+    "poster_path": "/4U1SBHmwHkNA0eHZ2n1CuiC1K1g.jpg",
+    "release_date": "2021-01-26",
+    "title": "Wrong Turn",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 361
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jeAQdDX9nguP6YOX6QSWKDPkbBo.jpg",
+    "genre_ids": [
+      14,
+      Action,
+      878
+    ],
+    "id": 590706,
+    "original_language": "en",
+    "original_title": "Jiu Jitsu",
+    "overview": "Every six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.",
+    "popularity": 693.585,
+    "poster_path": "/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg",
+    "release_date": "2020-11-20",
+    "title": "Jiu Jitsu",
+    "video": false,
+    "vote_average": 5.2,
+    "vote_count": 369
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nz8xWrTKZzA5A7FgxaM4kfAoO1W.jpg",
+    "genre_ids": [
+      878,
+      Action
+    ],
+    "id": 651571,
+    "original_language": "en",
+    "original_title": "Breach",
+    "overview": "A hardened mechanic must stay awake and maintain an interstellar ark fleeing the dying planet Earth with a few thousand lucky souls on board... the last of humanity. Unfortunately, humans are not the only passengers. A shapeshifting alien creature has taken residence, its only goal is to kill as many people as possible. The crew must think quickly to stop this menace before it destroys mankind.",
+    "popularity": 691.113,
+    "poster_path": "/13B6onhL6FzSN2KaNeQeMML05pS.jpg",
+    "release_date": "2020-12-17",
+    "title": "Breach",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 379
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9Is9OrQUnKczCfsLSbsbx8YSmES.jpg",
+    "genre_ids": [
+      16,
+      Comedy,
+      14
+    ],
+    "id": 797394,
+    "original_language": "ru",
+    "original_title": "Ганзель, Гретель и Агентство Магии",
+    "overview": "The Secret Magic Control Agency sends its two best agents, Hansel and Gretel, to fight against the witch of the Gingerbread House.",
+    "popularity": 580.975,
+    "poster_path": "/4ZSzEDVdxWVMVO4oZDvoodQOEfr.jpg",
+    "release_date": "2021-03-18",
+    "title": "Secret Magic Control Agency",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 113
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eqVgQwv8HfDN2tv4XWhqW5GryV4.jpg",
+    "genre_ids": [
+      27,
+      Comedy
+    ],
+    "id": 607383,
+    "original_language": "en",
+    "original_title": "Aquaslash",
+    "overview": "To celebrate their graduation, the teenagers from Valley Hills High School have organized an ’80s-themed party at the old Wet Valley water park. Things turn gruesome when it's revealed that a mysterious maniac has inserted giant razor blades into one of the water slides. The water park thus becomes the backdrop for a bloodbath (literally), and everyone is a suspect...",
+    "popularity": 654.152,
+    "poster_path": "/wB8qqLIaYDkYEnjbS5hAJiTuYU6.jpg",
+    "release_date": "2019-07-29",
+    "title": "Aquaslash",
+    "video": false,
+    "vote_average": 4.1,
+    "vote_count": 50
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3ombg55JQiIpoPnXYb2oYdr6DtP.jpg",
+    "genre_ids": [
+      878,
+      Action
+    ],
+    "id": 560144,
+    "original_language": "en",
+    "original_title": "Skylines",
+    "overview": "When a virus threatens to turn the now earth-dwelling friendly alien hybrids against humans, Captain Rose Corley must lead a team of elite mercenaries on a mission to the alien world in order to save what's left of humanity.",
+    "popularity": 672.508,
+    "poster_path": "/2W4ZvACURDyhiNnSIaFPHfNbny3.jpg",
+    "release_date": "2020-10-25",
+    "title": "Skylines",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 261
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iID0at69rWzZOIarUIFrfDOFJA.jpg",
+    "genre_ids": [
+      27,
+      14,
+      Drama,
+      10770
+    ],
+    "id": 786300,
+    "original_language": "en",
+    "original_title": "Tentacles",
+    "overview": "A young Los Angeles couple Tara and Sam fall head over heels into a new romance, entwining their lives — until their intimacy transforms into something terrifying.",
+    "popularity": 665.869,
+    "poster_path": "/kBKKXVbVwIP81u8Bnhguux48Sdn.jpg",
+    "release_date": "2021-02-12",
+    "title": "Tentacles",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 68
   }
 ]
