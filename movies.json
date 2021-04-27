@@ -18,7 +18,7 @@
   {
     "adult": false,
     "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
-  "genre: "Action",
+    "genre ": "Action",
     "id": 791373,
     "original_language": "en",
     "original_title": "Zack Snyder's Justice League",
@@ -34,7 +34,7 @@
   {
     "adult": false,
     "backdrop_path": "/z7HLq35df6ZpRxdMAE0qE3Ge4SJ.jpg",
-  "genre: "Comedy",
+    "genre ": "Comedy",
     "id": 615678,
     "original_language": "en",
     "original_title": "Thunder Force",
@@ -50,7 +50,7 @@
   {
     "adult": false,
     "backdrop_path": "/9yBVqNruk6Ykrwc32qrK2TIE5xw.jpg",
-    "genre: "Action",
+    "genre": "Action",
     "id": 460465,
     "original_language": "en",
     "original_title": "Mortal Kombat",
@@ -66,7 +66,7 @@
   {
     "adult": false,
     "backdrop_path": "/5NxjLfs7Bi07bfZCRl9CCnUw7AA.jpg",
-   "genre: "Sci-fi",
+    "genre ": "Sci-fi",
     "id": 412656,
     "original_language": "en",
     "original_title": "Chaos Walking",
@@ -82,7 +82,7 @@
   {
     "adult": false,
     "backdrop_path": "/7prYzufdIOy1KCTZKVWpjBFqqNr.jpg",
-    "genre: "Animation",
+    "genre ": "Animation",
     "id": 527774,
     "original_language": "en",
     "original_title": "Raya and the Last Dragon",
@@ -98,7 +98,7 @@
   {
     "adult": false,
     "backdrop_path": "/9xeEGUZjgiKlI69jwIOi0hjKUIk.jpg",
-    "genre: "Animation",
+    "genre ": "Animation",
     "id": 664767,
     "original_language": "en",
     "original_title": "Mortal Kombat Legends: Scorpion's Revenge",
@@ -114,7 +114,7 @@
   {
     "adult": false,
     "backdrop_path": "/z8TvnEVRenMSTemxYZwLGqFofgF.jpg",
-    "genre: "Fantasy",
+    "genre": "Fantasy",
     "id": 458576,
     "original_language": "en",
     "original_title": "Monster Hunter",
@@ -130,7 +130,7 @@
   {
     "adult": false,
     "backdrop_path": "/jnq4fV53Px9HvUZD2bQIxtGSwS7.jpg",
-    "genre: "Drama",
+    "genre": "Drama",
     "id": 644083,
     "original_language": "en",
     "original_title": "Twist",
@@ -146,7 +146,7 @@
   {
     "adult": false,
     "backdrop_path": "/fev8UFNFFYsD5q7AcYS8LyTzqwl.jpg",
-    "genre: "Family",
+    "genre": "Family",
     "id": 587807,
     "original_language": "en",
     "original_title": "Tom & Jerry",
@@ -162,7 +162,7 @@
   {
     "adult": false,
     "backdrop_path": "/gzJnMEMkHowkUndn9gCr8ghQPzN.jpg",
-    "genre: "Drama",
+    "genre": "Drama",
     "id": 793723,
     "original_language": "fr",
     "original_title": "Sentinelle",
@@ -178,7 +178,7 @@
   {
     "adult": false,
     "backdrop_path": "/uQtqiAu2bBlokqjlURVLEha6zoi.jpg",
-    "genre: "Drama",
+    "genre": "Drama",
     "id": 544401,
     "original_language": "en",
     "original_title": "Cherry",
@@ -194,7 +194,7 @@
   {
     "adult": false,
     "backdrop_path": "/5Zv5KmgZzdIvXz2KC3n0MyecSNL.jpg",
-    "genre: "Crime",
+    "genre": "Crime",
     "id": 634528,
     "original_language": "en",
     "original_title": "The Marksman",
@@ -210,7 +210,7 @@
   {
     "adult": false,
     "backdrop_path": "/6TPZSJ06OEXeelx1U1VIAt0j9Ry.jpg",
-    "genre: "Crime",
+    "genre": "Crime",
     "id": 587996,
     "original_language": "es",
     "original_title": "Bajocero",
@@ -226,7 +226,7 @@
   {
     "adult": false,
     "backdrop_path": "/srYya1ZlI97Au4jUYAktDe3avyA.jpg",
-   "genre: "Fantasy",
+    "genre": "Fantasy",
     "id": 464052,
     "original_language": "en",
     "original_title": "Wonder Woman 1984",
@@ -242,7 +242,7 @@
   {
     "adult": false,
     "backdrop_path": "/lOSdUkGQmbAl5JQ3QoHqBZUbZhC.jpg",
-  "genre: "Fantasy",
+    "genre": "Fantasy",
     "id": 775996,
     "original_language": "en",
     "original_title": "Outside the Wire",
@@ -258,7 +258,7 @@
   {
     "adult": false,
     "backdrop_path": "/drulhSX7P5TQlEMQZ3JoXKSDEfz.jpg",
-    "genre: "Sci-fi",
+    "genre": "Sci-fi",
     "id": 581389,
     "original_language": "ko",
     "original_title": "승리호",
@@ -274,7 +274,7 @@
   {
     "adult": false,
     "backdrop_path": "/fRrpOILyXuWaWLmqF7kXeMVwITQ.jpg",
-   "genre: "Adventure",
+    "genre": "Adventure",
     "id": 522444,
     "original_language": "en",
     "original_title": "Black Water: Abyss",
@@ -290,7 +290,7 @@
   {
     "adult": false,
     "backdrop_path": "/vfuzELmhBjBTswXj2Vqxnu5ge4g.jpg",
-    "genre: "Thriller",
+    "genre": "Thriller",
     "id": 602269,
     "original_language": "en",
     "original_title": "The Little Things",
@@ -306,7 +306,7 @@
   {
     "adult": false,
     "backdrop_path": "/h9DIlghaiTxbQbt1FIwKNbQvEL.jpg",
-    "genre: "Action",
+    "genre": "Action",
     "id": 581387,
     "original_language": "ko",
     "original_title": "백두산",
@@ -319,10 +319,10 @@
     "vote_average": 6.5,
     "vote_count": 233
   },
-    {
+  {
     "adult": false,
     "backdrop_path": "/6TPZSJ06OEXeelx1U1VIAt0j9Ry.jpg",
-    "genre: "Action",
+    "genre": "Action",
     "id": 587996,
     "original_language": "es",
     "original_title": "Bajocero",
@@ -338,7 +338,7 @@
   {
     "adult": false,
     "backdrop_path": "/aMFl4wOPhJ7NVua6SgU9zIJvFSx.jpg",
-    "genre: "Comedy",
+    "genre": "Comedy",
     "id": 755812,
     "original_language": "fr",
     "original_title": "Miraculous World : New York, les héros unis",
@@ -354,7 +354,7 @@
   {
     "adult": false,
     "backdrop_path": "/jnq4fV53Px9HvUZD2bQIxtGSwS7.jpg",
-   "genre: "Drama",
+    "genre": "Drama",
     "id": 644083,
     "original_language": "en",
     "original_title": "Twist",
@@ -370,7 +370,7 @@
   {
     "adult": false,
     "backdrop_path": "/vfuzELmhBjBTswXj2Vqxnu5ge4g.jpg",
-     "genre: "Thriller",
+    "genre": "Thriller",
     "id": 602269,
     "original_language": "en",
     "original_title": "The Little Things",
@@ -386,7 +386,7 @@
   {
     "adult": false,
     "backdrop_path": "/cjaOSjsjV6cl3uXdJqimktT880L.jpg",
-    "genre: "Comedy",
+    "genre": "Comedy",
     "id": 529203,
     "original_language": "en",
     "original_title": "The Croods: A New Age",
@@ -402,7 +402,7 @@
   {
     "adult": false,
     "backdrop_path": "/fRrpOILyXuWaWLmqF7kXeMVwITQ.jpg",
-    "genre: "Thriller",
+    "genre": "Thriller",
     "id": 522444,
     "original_language": "en",
     "original_title": "Black Water: Abyss",
@@ -418,7 +418,7 @@
   {
     "adult": false,
     "backdrop_path": "/h9DIlghaiTxbQbt1FIwKNbQvEL.jpg",
-    "genre: "Action",
+    "genre": "Action",
     "id": 581387,
     "original_language": "ko",
     "original_title": "백두산",
@@ -434,7 +434,7 @@
   {
     "adult": false,
     "backdrop_path": "/4JeO6EeNOnWpzgay99EicUoRdIP.jpg",
-     "genre: "Drama",
+    "genre": "Drama",
     "id": 579051,
     "original_language": "en",
     "original_title": "Silk Road",
@@ -450,7 +450,7 @@
   {
     "adult": false,
     "backdrop_path": "/kf456ZqeC45XTvo6W9pW5clYKfQ.jpg",
-     "genre: "Drama",
+    "genre": "Drama",
     "id": 508442,
     "original_language": "en",
     "original_title": "Soul",
@@ -466,7 +466,7 @@
   {
     "adult": false,
     "backdrop_path": "/a9zFUuxzChmAlIybVge9IZt1hH0.jpg",
-    "genre: "Comedy",
+    "genre": "Comedy",
     "id": 578908,
     "original_language": "en",
     "original_title": "Bad Trip",
@@ -482,7 +482,7 @@
   {
     "adult": false,
     "backdrop_path": "/7KL4yJ4JsbtS1BNRilUApLvMnc5.jpg",
-     "genre: "Drama",
+    "genre": "Drama",
     "id": 649087,
     "original_language": "sv",
     "original_title": "Red Dot",
@@ -498,7 +498,7 @@
   {
     "adult": false,
     "backdrop_path": "/jw0849O7WLarbYKJkA9WpRLeGKG.jpg",
-     "genre: "Comedy",
+    "genre": "Comedy",
     "id": 802504,
     "original_language": "nl",
     "original_title": "Just Say Yes",
@@ -514,7 +514,7 @@
   {
     "adult": false,
     "backdrop_path": "/fX8e94MEWSuTJExndVYxKsmA4Hw.jpg",
-    "genre: "Action",
+    "genre": "Action",
     "id": 604822,
     "original_language": "zh",
     "original_title": "急先锋",
@@ -530,7 +530,7 @@
   {
     "adult": false,
     "backdrop_path": "/u5WUCO6irZoq27qbYYrtLUrCGDV.jpg",
-     "genre: "Thriller",
+    "genre": "Thriller",
     "id": 630586,
     "original_language": "en",
     "original_title": "Wrong Turn",
@@ -546,7 +546,7 @@
   {
     "adult": false,
     "backdrop_path": "/jeAQdDX9nguP6YOX6QSWKDPkbBo.jpg",
-     "genre: "Action",
+    "genre": "Action",
     "id": 590706,
     "original_language": "en",
     "original_title": "Jiu Jitsu",
@@ -562,7 +562,7 @@
   {
     "adult": false,
     "backdrop_path": "/nz8xWrTKZzA5A7FgxaM4kfAoO1W.jpg",
-     "genre: "Action",
+    "genre": "Action",
     "id": 651571,
     "original_language": "en",
     "original_title": "Breach",
@@ -578,7 +578,7 @@
   {
     "adult": false,
     "backdrop_path": "/9Is9OrQUnKczCfsLSbsbx8YSmES.jpg",
-    "genre: "Comedy",
+    "genre": "Comedy",
     "id": 797394,
     "original_language": "ru",
     "original_title": "Ганзель, Гретель и Агентство Магии",
@@ -594,10 +594,7 @@
   {
     "adult": false,
     "backdrop_path": "/eqVgQwv8HfDN2tv4XWhqW5GryV4.jpg",
-    "genre_ids": [
-      27,
-      Comedy
-    ],
+    "genre": "Comedy",
     "id": 607383,
     "original_language": "en",
     "original_title": "Aquaslash",
@@ -613,10 +610,7 @@
   {
     "adult": false,
     "backdrop_path": "/3ombg55JQiIpoPnXYb2oYdr6DtP.jpg",
-    "genre_ids": [
-      878,
-      Action
-    ],
+    "genre": "Action",
     "id": 560144,
     "original_language": "en",
     "original_title": "Skylines",
@@ -632,12 +626,7 @@
   {
     "adult": false,
     "backdrop_path": "/iID0at69rWzZOIarUIFrfDOFJA.jpg",
-    "genre_ids": [
-      27,
-      14,
-      Drama,
-      10770
-    ],
+    "genre": "Drama",
     "id": 786300,
     "original_language": "en",
     "original_title": "Tentacles",
