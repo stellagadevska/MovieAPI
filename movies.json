@@ -1,5 +1,4 @@
-{ "page": 1,
- "results": [
+[
   {
     "adult": false,
     "backdrop_path": "/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
@@ -641,4 +640,3 @@
     "vote_count": 68
   }
 ]
-}
